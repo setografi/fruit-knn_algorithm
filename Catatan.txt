@@ -1,0 +1,4 @@
+Untuk membuka program diperlukan MATLAB 
+dan bisa dibuka pada mainApp.mlapp
+Buah1 buah2 dan buah3 adalah buah test
+jika ingin menambah buah, maka harus diletakkan difolder ini!
